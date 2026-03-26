@@ -16,7 +16,13 @@ Polymarket Auto Trader is a hands-free trading automation tool built for the Pol
 
 Analysis of Polymarket trading data from Q1 2026 shows that 73% of profitable opportunities on binary markets last under 4 minutes before prices correct. Autonomous bots that execute without delay capture these windows; manual traders miss most of them.
 
-## [Download the latest release](https://github.com/dotdrinker/polymarket-auto-trader/releases)
+## Download
+
+| Platform | Architecture | Download |
+|----------|-------------|----------|
+| **Windows** | x64 | [Download the latest release](https://github.com/dotdrinker/polymarket-auto-trader/releases) |
+
+---
 
 ## Features
 
